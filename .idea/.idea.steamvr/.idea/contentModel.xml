@@ -6,8 +6,13 @@
     <e p="D:\Projects\Steaamvr\steamvr" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="backlock.cs" t="Include" />
+        <e p="book.cs" t="Include" />
+        <e p="book2.cs" t="Include" />
         <e p="Bullet.cs" t="Include" />
         <e p="BulletFlying.cs" t="Include" />
+        <e p="door.cs" t="Include" />
+        <e p="Guiedit.cs" t="Include" />
         <e p="Low Poly FPS Pack - Free (Sample)" t="Include">
           <e p="Components" t="Include">
             <e p="Demo_Scene_Components" t="Include">
@@ -49,7 +54,9 @@
             </e>
           </e>
         </e>
+        <e p="newmoving.cs" t="Include" />
         <e p="qwer.cs" t="Include" />
+        <e p="spawn.cs" t="Include" />
         <e p="steamvr" t="Include">
           <e p="Editor" t="Include">
             <e p="SteamVR_AutoEnableVR_2018to2019.cs" t="Include" />
@@ -358,6 +365,7 @@
           <e p="SteamVR_Input_ActionSets.cs" t="Include" />
           <e p="SteamVR_Input_Initialization.cs" t="Include" />
         </e>
+        <e p="Text_orent.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive" />
       <e p="Packages" t="ExcludeRecursive" />

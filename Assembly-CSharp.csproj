@@ -58,8 +58,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Bullet.cs" />
-     <Compile Include="Assets\BulletFlying.cs" />
      <Compile Include="Assets\Low Poly FPS Pack - Free (Sample)\Components\Demo_Scene_Components\Scripts\DebrisScript.cs" />
      <Compile Include="Assets\Low Poly FPS Pack - Free (Sample)\Components\Demo_Scene_Components\Scripts\ExplosiveBarrelScript.cs" />
      <Compile Include="Assets\Low Poly FPS Pack - Free (Sample)\Components\Demo_Scene_Components\Scripts\TargetScript.cs" />
@@ -73,7 +71,17 @@
      <Compile Include="Assets\Low Poly FPS Pack - Free (Sample)\Components\Scripts\Weapon_Scripts\AutomaticGunScriptLPFP.cs" />
      <Compile Include="Assets\Low Poly FPS Pack - Free (Sample)\Components\Scripts\Weapon_Scripts\HandgunScriptLPFP.cs" />
      <Compile Include="Assets\Low Poly FPS Pack - Free (Sample)\Prefabs\Models_Only\Bullets_&amp;_Casings\Bullet2.cs" />
-     <Compile Include="Assets\qwer.cs" />
+     <Compile Include="Assets\Scripts\Bullet.cs" />
+     <Compile Include="Assets\Scripts\BulletFlying.cs" />
+     <Compile Include="Assets\Scripts\Guiedit.cs" />
+     <Compile Include="Assets\Scripts\Text_orent.cs" />
+     <Compile Include="Assets\Scripts\backlock.cs" />
+     <Compile Include="Assets\Scripts\book.cs" />
+     <Compile Include="Assets\Scripts\book2.cs" />
+     <Compile Include="Assets\Scripts\door.cs" />
+     <Compile Include="Assets\Scripts\newmoving.cs" />
+     <Compile Include="Assets\Scripts\qwer.cs" />
+     <Compile Include="Assets\Scripts\spawn.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/Projects/Steaamvr/steamvr/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
